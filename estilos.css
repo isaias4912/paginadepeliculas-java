@@ -95,6 +95,10 @@ header {
 .bgModal {
     background-color: #585353;
 }
+.modal-body{
+  background: #202020;
+}
+
 
 /* FOOTER */
 footer{
