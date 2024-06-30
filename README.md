@@ -1,1 +1,2 @@
-# miproyectocac
+Pagina de peliculas -aplicando lenguajes(html,css,boostrap,javascript,java 17 21,springboot)
+ en la sigueinte pagina se oferece peliculas apliancando estructura con hrml y estilo con css con librerias bootstrap en el frontend .Ofreciendo dinamismo con java script aplicado a validacion de login y registro como asi obteniendo uan lista de peliculas de una API.En el backend se usa java aplicando los metos CRUD ,se crea un aapi .
